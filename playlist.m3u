@@ -886,21 +886,6 @@ http://xtv.ooo:8080/djshub654@/djshub456@/352090
 #EXTINF:-1 channel-id="samsung-CABC2300004A4" tvg-id="CABC2300004A4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20240131T021529SQUARE.png_20240131021530.png" tvg-chno="1189" group-title="Canada" , Top Gear
 ###https://jmp2.uk/SamsungTVPlus/CABC2300004A4.m3u8
 
-
-=== Sony Sports  ===
-#EXTINF:-1 group-title="Sports",Sony Sports 1
-####http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=3178&deviceMac=00:1A:79:42:01:5D
-
-#EXTINF:-1 group-title="Sports",Sony Sports 2
-#####http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=3178&deviceMac=00:1A:79:42:01:5D
-
-#EXTINF:-1 group-title="Sports",Sony Sports 3
-####http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=3178&deviceMac=00:1A:79:42:01:5D
-
-#EXTINF:-1 group-title="Sports",Sony Sports 4
-######http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=3178&deviceMac=00:1A:79:42:01:5D
-
-
 === SuperSport ====
 
 #EXTINF:-1 group-title="Sports", SKY Sports Premier League
