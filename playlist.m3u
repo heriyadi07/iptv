@@ -79,6 +79,9 @@ https://sritv.serv00.net/red/play.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR*
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -212,105 +215,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 
-
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdnkbl5.indihometv.com/ateme/dash/indosiar/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR*
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:0 group-title="National TV" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png",INDOSIAR
-######http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-###http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/162138
-
-#EXTINF:0 group-title="National TV" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png",INDOSIAR
-#####http://cdnkbl3.indihometv.com/ateme/dash/indosiar/manifest.mpd
-
-#EXTINF:0 group-title="National TV" tvg-logo="http://127.0.0.01",SCTV
-####http://37.49.225.117:8080/137f5990/0ac733c42a/162141
-http://cdnkbl3.indihometv.com/ateme/dash/sctv/manifest.mpd
-
-#EXTINF:0 group-title="National TV" tvg-logo="http://127.0.0.01",SCTV
-http://xtv.ooo:8080/djshub654@/djshub456@/351030
-
-
-#EXTINF:0 group-title="National TV" tvg-logo="http://127.0.0.01",SCTV 
-#EXTINF:-1,ID: 01. ETV Live Event 01
-###http://xtv.ooo:8080/masood9/masood9/350877
-
-
-#EXTINF:-1,ID: 02. ETV Live Event 02
-####http://xtv.ooo:8080/masood9/masood9/350878
-
-
-#EXTINF:0 group-title="National TV" tvg-logo="http://127.0.0.01",Moji HD
-#####http://iptvtree.net:8080/Isidorchait/ea940f8fd1/298550
-####http://xtv.ooo:8080/35789097/42467892/350997
-
-
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-#####http://cdnkbl3.indihometv.com/ateme/dash/METRO_TV/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",Rajawali TV
-#####https://apel-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
-http://cdnkbl3.indihometv.com/ateme/dash/KOMPAS_TV/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 http://cdnkbl3.indihometv.com/ateme/dash/TVRI/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
-https://cempedak-live-cdn.mncnow.id//live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",MNC News
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png",Bloomberg TV Asia
-https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
-https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA International
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
-https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN International Asia Pacific
-######https://apel-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -329,7 +237,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 ####https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -742,22 +649,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
 #EXTINF:-1 group-title="Movies",UK: SKY Cinema Animation FHD
