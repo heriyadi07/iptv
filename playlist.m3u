@@ -283,15 +283,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsia
 
 
 
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e3cb40f0/5601_r32.jpg" group-title="Knowledge & Documentary",History HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-https://dsgtq5sngxkde.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-
-
-
 #EXTINF:-1 group-title="Knowledge",IN: National Geographic
 ###http://103.131.214.129:9985/stream/channelid/940961797?ticket=D5B37EA3BE52B32F709C412A86741EC377476DB1&profile=pass
 
