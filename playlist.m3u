@@ -1,5 +1,3 @@
-xx#EXTM3U
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -69,7 +67,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=204&type=drm 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
-https://sritv.serv00.net/red/play.mpd?id=204&type=dash
+http://cdnkbl3.indihometv.com/ateme/dash/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -496,24 +494,29 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01
 http://xtv.ooo:8080/924237077A/924237077A/66315
 
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01:5D
+http://mega4k.one:8080/1234567890/1234567890/74812
 
 
 #EXTINF:-1 group-title="Movies",Movies Now HD
-http://xtv.ooo:8080/live/09448630/09888785/109968.m3u8
+######http://xtv.ooo:8080/live/09448630/09888785/109968.m3u8
+http://xtv.ooo:8080/djshub654@/djshub456@/66271
 
+#EXTINF:-1 group-title="Movies",Movies Now X
+http://mega4k.one:8080/1234567890/1234567890/74806
 
 
 #EXTINF:-1 group-title="Movies",&FLIX HD
-http://xtv.ooo:8080/live/09448630/09888785/109962.m3u8
+http://mega4k.one:8080/1234567890/1234567890/74802
+###http://xtv.ooo:8080/live/09448630/09888785/109962.m3u8
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116484&extension=ts&play_token=11fpl27ay5&sn2=
 
 #EXTINF:-1 group-title="Movies",&Prive HD
-####http://103.131.214.129:9985/stream/channelid/2077879962?ticket=B731BB14E9ABF7268CCADB86835352BD50A117F9&profile=pass
-http://xtv.ooo:8080/live/09448630/09888785/109963.m3u8
+http://mega4k.one:8080/1234567890/1234567890/74800
+###http://xtv.ooo:8080/djshub654@/djshub456@/109963
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD
-http://xtv.ooo:8080/live/09448630/09888785/381144.m3u8
+http://mega4k.one:8080/1234567890/1234567890/74799
+
 ####https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 ######======== Galaxy ========
