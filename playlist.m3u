@@ -296,7 +296,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
 #EXTINF:-1 group-title="Knowledge",IN: National Geographic
-###http://103.131.214.129:9985/stream/channelid/940961797?ticket=D5B37EA3BE52B32F709C412A86741EC377476DB1&profile=pass
+http://15.235.181.35:80/live.ts?channelId=125057&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Knowledge",Nat Geo
@@ -483,13 +483,13 @@ http://xtv.ooo:8080/djshub654@/djshub456@/350922
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116488&extension=ts&play_token=jyWSgX1XEO&sn2=
 ####http://xtv.ooo:8080/924237077A/924237077A/109970
 ####http://filex.tv:8080/Diamond@pk@321/4193525345453/275053
-http://xtv.ooo:8080/live/09448630/09888785/109970.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg",Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 #EXTINF:-1 tvg-name="Star Movie Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
-http://xtv.ooo:8080/924237077A/924237077A/66315
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
 http://mega4k.one:8080/1234567890/1234567890/74812
@@ -497,7 +497,7 @@ http://mega4k.one:8080/1234567890/1234567890/74812
 
 #EXTINF:-1 group-title="Movies",Movies Now HD
 ######http://xtv.ooo:8080/live/09448630/09888785/109968.m3u8
-http://xtv.ooo:8080/djshub654@/djshub456@/66271
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 #EXTINF:-1 group-title="Movies",Movies Now X
 http://mega4k.one:8080/1234567890/1234567890/74806
@@ -743,7 +743,8 @@ http://ns31617126.ip-162-19-37.eu:8080/play/live.php?mac=00:1A:79:BF:75:37&strea
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORT F1 4K
 #####http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:66:1B:50&stream=1471382&extension=ts&play_token=pldJvlDKZY
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:20:03:1E&stream=1471382&extension=ts&play_token=x4MinJPgpz&sn2=
+#####http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:20:03:1E&stream=1471382&extension=ts&play_token=x4MinJPgpz&sn2=
+http://85.92.112.108:80/live/play/TDFBd1psZFVUaTgzTW1sSVpGbGxjRWhuVTNOVlpUZzRkaXRTV1dWS2EyOHhSWE4wWVRreWVXc3hNRDA9/1471382
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORT F1 UHD
 ######http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1471382&extension=ts&play_token=aI90HDMfCY
