@@ -632,6 +632,18 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
+##### HUB Sports #####
+#EXTINF:-1 group-title="Sports", Hub Premier 2 UHD
+http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350568&extension=ts&play_token=UfT3jLrJLf
+
+#EXTINF:-1 group-title="Sports", Hub Premier 1 FHD
+http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350557&extension=ts&play_token=hKqjsVgMei
+
+#EXTINF:-1 group-title="Sports", Hub Premier 2 FHD
+http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350558&extension=ts&play_token=g8FydIJV9O
+
+#EXTINF:-1 group-title="Sports", Hub Premier 3 FHD
+http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350559&extension=ts&play_token=h57xcuJhmo
 
 ===UK TNT Sports ====
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="Sports", TNT Sports 1 
