@@ -294,6 +294,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsia
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
+#EXTINF:-1 group-title="Knowledge", Discovery Turbo
+http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=2289&extension=ts&play_token=i4macdH3o6
+
 
 #EXTINF:-1 group-title="Knowledge",IN: National Geographic
 http://15.235.181.35:80/live.ts?channelId=125057&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
@@ -730,7 +733,8 @@ http://xtv.ooo:8080/djshub654@/djshub456@/238490
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:64:38:BA&stream=97142&extension=ts&play_token=CSULmPUyl7&sn2=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORTS F1
-http://xtv.ooo:8080/djshub654@/djshub456@/346380
+#####http://xtv.ooo:8080/djshub654@/djshub456@/346380
+http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1904&extension=ts&play_token=chgFzp4C9W
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORTS F1*
 http://xtv.ooo:8080/live/09448630/09888785/346380.m3u8
