@@ -522,16 +522,18 @@ http://mega4k.one:8080/1234567890/1234567890/74812
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 #EXTINF:-1 group-title="Movies",Movies Now X
-http://mega4k.one:8080/1234567890/1234567890/74806
+http://119.152.240.15:8001/play/a0hz/index.m3u8
 
 
 #EXTINF:-1 group-title="Movies",&FLIX HD
-http://mega4k.one:8080/1234567890/1234567890/74802
+http://119.152.240.15:8001/play/a0b5/index.m3u8
+#####http://mega4k.one:8080/1234567890/1234567890/74802
 ###http://xtv.ooo:8080/live/09448630/09888785/109962.m3u8
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116484&extension=ts&play_token=11fpl27ay5&sn2=
 
 #EXTINF:-1 group-title="Movies",&Prive HD
-http://mega4k.one:8080/1234567890/1234567890/74800
+http://119.152.240.15:8001/play/a0je/index.m3u8
+###http://mega4k.one:8080/1234567890/1234567890/74800
 ###http://xtv.ooo:8080/djshub654@/djshub456@/109963
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD
