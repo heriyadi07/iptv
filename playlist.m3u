@@ -543,9 +543,6 @@ http://119.152.240.15:8001/play/a0je/index.m3u8
 ####http://mega4k.one:8080/1234567890/1234567890/74799
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=3178&deviceMac=00:1A:79:42:01:5D
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD*
-http://kdz-prm-ld.ssltv.net:8273/8be1228d28529a51b9bbbf3c2bc361134d68af7786321a45/index.m3u8?token=ee529384a6b3b03f85cbbd1565bcf97fe03c6555a20c5733d1c469ffd7f666345d5937989c4ec776091a7acafb82e8f38cfef29d180b3b452b2e8b05c62f2244c16b055909-c054813091ee46fc94c5cb2d832ad315
-
 ####https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 ######======== Galaxy ========
