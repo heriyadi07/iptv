@@ -556,20 +556,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01
 #EXTINF:-1 tvg-name="Star Movie Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
 http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01:5D
 
-#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
-http://mega4k.one:8080/1234567890/1234567890/74812
+#EXTINF:-1 tvg-name="Star Movie Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
+http://119.156.26.155:8000/play/a06q/index.m3u8
 
 
 #EXTINF:-1 group-title="Movies",Movies Now HD
 ######http://xtv.ooo:8080/live/09448630/09888785/109968.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=3178&deviceMac=00:1A:79:42:01:5D
 
-#EXTINF:-1 group-title="Movies",Movies Now X
-http://119.152.240.15:8001/play/a0hz/index.m3u8
-
-
 #EXTINF:-1 group-title="Movies",&FLIX HD
-http://119.152.240.15:8001/play/a0b5/index.m3u8
+http://119.156.26.155:8000/play/a06x/index.m3u8
 #####http://mega4k.one:8080/1234567890/1234567890/74802
 ###http://xtv.ooo:8080/live/09448630/09888785/109962.m3u8
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116484&extension=ts&play_token=11fpl27ay5&sn2=
@@ -579,8 +575,9 @@ http://119.152.240.15:8001/play/a0je/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD
 ####http://mega4k.one:8080/1234567890/1234567890/74799
-http://119.152.240.15:8001/play/a0jk/index.m3u8
-###http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=3178&deviceMac=00:1A:79:42:01:5D
+##http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=3178&deviceMac=00:1A:79:42:01:5D
+http://119.156.26.155:8000/play/a07d/index.m3u8
+
 
 ####https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
