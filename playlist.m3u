@@ -324,11 +324,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
 #EXTINF:-1 group-title="Knowledge", Discovery Turbo
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=2289&extension=ts&play_token=i4macdH3o6
+http://jmrk.xyz:3050/Amonetna/xgvKRisJUa/360765
 
 
 #EXTINF:-1 group-title="Knowledge",IN: National Geographic
-http://15.235.181.35:80/live.ts?channelId=125057&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
+###http://15.235.181.35:80/live.ts?channelId=125057&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Knowledge",Nat Geo
@@ -597,7 +597,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=8399&deviceMac=00:1A:79:12:
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116484&extension=ts&play_token=11fpl27ay5&sn2=
 
 #EXTINF:-1 group-title="Movies",&Prive HD
-####http://119.156.26.155:8000/play/a07j/index.m3u8
+http://jmrk.xyz:3050/Amonetna/xgvKRisJUa/659488
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD
 ####http://mega4k.one:8080/1234567890/1234567890/74799
