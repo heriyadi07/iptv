@@ -576,7 +576,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 ####http://filex.tv:8080/Diamond@pk@321/4193525345453/275053
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
 
-#EXTINF:-1 group-title="Movies" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg",Star Movies HD
+#EXTINF:-1 group-title="Movies" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg",Star Movies HD*
+http://15.235.181.35:80/live.ts?channelId=198&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
 #####http://119.156.26.155:8000/play/a06p/index.m3u8
 ####http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D
 
@@ -591,7 +592,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 #EXTINF:-1 group-title="Movies",&FLIX HD
-http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=8399&deviceMac=00:1A:79:12:AB:2A
+http://15.235.180.97:80/live.ts?channelId=49859&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
+####http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=8399&deviceMac=00:1A:79:12:AB:2A
 #####http://mega4k.one:8080/1234567890/1234567890/74802
 ###http://xtv.ooo:8080/live/09448630/09888785/109962.m3u8
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116484&extension=ts&play_token=11fpl27ay5&sn2=
@@ -601,7 +603,8 @@ http://jmrk.xyz:3050/Amonetna/xgvKRisJUa/659488
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD
 ####http://mega4k.one:8080/1234567890/1234567890/74799
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=3178&deviceMac=00:1A:79:42:01:5D
+http://15.235.180.97:80/live.ts?channelId=189&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
+####http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 
 ####https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
