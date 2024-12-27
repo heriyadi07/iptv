@@ -597,7 +597,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=8399&deviceMac=00:1A:79:12:
 ###http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1116484&extension=ts&play_token=11fpl27ay5&sn2=
 
 #EXTINF:-1 group-title="Movies",&Prive HD
-http://119.156.26.155:8000/play/a07j/index.m3u8
+####http://119.156.26.155:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD
 ####http://mega4k.one:8080/1234567890/1234567890/74799
@@ -663,19 +663,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEnter
 ####http://servi-teevee.net//david.mccready/esgawNwU8EhT/608255
 ###http://line.team-tv.link//yqwGm5WA68ML/fk4WRY1Ph3/339670
 ####http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:25:4F:F4&stream=873868&extension=ts&play_token=Z8mIbmiR7N
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=697601&extension=ts&play_token=AiEIx9XvRH
 
 
 #EXTINF:-1 group-title="Movies" ,UK: SKY Cinema Premier FHD
 #####http://servi-teevee.net//david.mccready/esgawNwU8EhT/475139
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1790&extension=ts&play_token=00FWRDytTH
 
 #EXTINF:-1 group-title="Movies",UK: SKY Cinema Family FHD
 #####http://servi-teevee.net//david.mccready/esgawNwU8EhT/475141
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1809&extension=ts&play_token=lIXRUzB81m
 
 #EXTINF:-1 group-title="Movies",UK: SKY Cinema Action FHD
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=697600&extension=ts&play_token=YfjEmGDF3k
 
 
 #EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg" group-title="Entertainment & LifeStyle",TVN
@@ -795,16 +791,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 ##### HUB Sports #####
 #EXTINF:-1 group-title="Sports", Hub Premier 2 UHD
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350568&extension=ts&play_token=UfT3jLrJLf
+####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350568&extension=ts&play_token=UfT3jLrJLf
 
 #EXTINF:-1 group-title="Sports", Hub Premier 1 FHD
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350557&extension=ts&play_token=hKqjsVgMei
+#####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350557&extension=ts&play_token=hKqjsVgMei
 
 #EXTINF:-1 group-title="Sports", Hub Premier 2 FHD
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350558&extension=ts&play_token=g8FydIJV9O
+####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350558&extension=ts&play_token=g8FydIJV9O
 
 #EXTINF:-1 group-title="Sports", Hub Premier 3 FHD
-http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350559&extension=ts&play_token=h57xcuJhmo
+#####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350559&extension=ts&play_token=h57xcuJhmo
 
 ===UK TNT Sports ====
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="Sports", TNT Sports 1 
@@ -850,10 +846,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 group-title="Sports", Eurosport 1 HD
 ###http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1946&extension=ts&play_token=v0ao5uSWrc
-https://cdnsk003.panaccess.com/local/Eurosport1/index.m3u8
+#####https://cdnsk003.panaccess.com/local/Eurosport1/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Eurosport 2 HD
-https://cdnsk003.panaccess.com/local/Eurosport2/index.m3u8
+#####https://cdnsk003.panaccess.com/local/Eurosport2/index.m3u8
 #####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1947&extension=ts&play_token=9rkiHu99Um
 =======
 
