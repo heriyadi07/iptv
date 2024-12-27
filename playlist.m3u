@@ -803,7 +803,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350559&extension=ts&play_token=h57xcuJhmo
 
 ===UK TNT Sports ====
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="Sports", TNT Sports 1 
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20241227&channel_id=400477" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="Sports", TNT Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
