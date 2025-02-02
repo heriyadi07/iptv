@@ -390,19 +390,11 @@ http://jmrk.xyz:3050/Amonetna/xgvKRisJUa/360765
 ####http://4ksuper.live:80/play/live.php?mac=00:1A:79:A1:DB:8B&stream=91872&extension=ts
 
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="FMX", Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="TRANSVISION (OS10 UP)",Cartoon Network (Trans)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="TRANSVISION (OS10 UP)",Cartoon Network ()
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd?wv=aHR0cHM6Ly9kcm1pZC5sYXlhcmthY2F0di5tZS8%3D
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -838,14 +830,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF:-1 group-title="Sports", Hub Premier 2 UHD
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:00:1E:DC&stream=1032518&extension=ts&play_token=msUV4ydLka&sn2=
 
-#EXTINF:-1 group-title="Sports", Hub Premier 1 FHD
-#####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350557&extension=ts&play_token=hKqjsVgMei
-
-#EXTINF:-1 group-title="Sports", Hub Premier 2 FHD
-####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350558&extension=ts&play_token=g8FydIJV9O
-
-#EXTINF:-1 group-title="Sports", Hub Premier 3 FHD
-#####http://darknetiptv1.ddns.net:25461/play/live.php?mac=00:1A:79:B8:45:1D&stream=1350559&extension=ts&play_token=h57xcuJhmo
 
 
 ===UK TNT Sports ====
