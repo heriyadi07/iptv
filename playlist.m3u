@@ -909,8 +909,8 @@ http://xtv.ooo:8080/djshub654@/djshub456@/352089
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",MY: Astro SuperSport 4
 http://xtv.ooo:8080/djshub654@/djshub456@/352090
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport UHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Malaysia",Astro SuperSport UHD
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1479590&extension=ts&play_token=GibUbUHjKr&sn2=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ASTRO SUPERSPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD|3840P",4K| ASTRO SUPERSPORT UHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479590&extension=ts&play_token=7N4xhFAPIk
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport UHD*" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Malaysia",Astro SuperSport UHD*
 http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:20:03:1E&stream=1479590&extension=ts&play_token=naprEmZc2P&sn2=
