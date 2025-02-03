@@ -525,19 +525,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 
 
 ======= HBO FMX ====
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",HBO 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",HBO FHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",HBO Family 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",HBO Family FHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",HBO Hits 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",HBO Hits FHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",HBO Signature 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",HBO Signature FHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",Cinemax FHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 ===== HBO ====
 
