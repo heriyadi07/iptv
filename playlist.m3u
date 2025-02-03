@@ -852,12 +852,25 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:00:1E:DC&stream=1032518&
 
 
 ===UK TNT Sports ====
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/270
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/273
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/271
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298471
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1124
+
+
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20241227&channel_id=400477" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="Sports", TNT Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+##https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #####https://ottb.live.cf.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd  
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="Sports", TNT Sports 2
