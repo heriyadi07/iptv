@@ -993,11 +993,11 @@ http://familyvip.me:8080/67465x7b7/CfGNhixNnN/116091
 ######http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1471382&extension=ts&play_token=aI90HDMfCY
 ####http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
-#EXTINF:-1 tvg-id="" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png",Al Quran Al Kareem TV HD
-####https://cdnbpp1.indihometv.com/atm/hlsv3/alquran/alquran-avc1_1200000=4-mp4a_96000=2.m3u8?enc=&uid=&exp=
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="RELIGI" group-logo="https://i.ibb.co.com/KWfwWzH/Boi-Religious.png", ALQURAN KHAREEM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 
 #EXTINF:-1 tvg-id="mqtv" tvg-logo="https://iili.io/HkDiEzu.png" group-title="Religi",MQTV
