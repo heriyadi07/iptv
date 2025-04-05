@@ -1,4 +1,4 @@
- #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 
@@ -115,8 +115,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="NET.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/596/596-LOGO-m.png",NETTV HD (transvision)
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+#EXTINF:-1 tvg-id="NET.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/596/596-LOGO-m.png",MDTV HD
+http://203.77.246.14:8001/udp/239.1.1.72:5000
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -168,7 +168,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+###https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+http://203.77.246.14:8001/udp/239.1.1.66:5000
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -252,6 +253,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
 ######https://apel-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="News", DW English
+http://203.77.246.14:8001/udp/239.1.2.246:5000
 
 
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
@@ -836,6 +840,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="Sports", CHAMPIONS TV 1
+http://203.77.246.14:8001/udp/239.1.2.240:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="Sports", CHAMPIONS TV 2
+http://203.77.246.14:8001/udp/239.1.2.242:5000
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
