@@ -260,14 +260,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d
 #EXTINF:0 group-title="National TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/c7/9e/94c79e89-407c-cf90-b203-d6f6754ec04f/AppIcon-1x_U007emarketing-0-4-0-0-512MB-85-220.png/492x0w.webp”,CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yOIH3z15uAAwbFETaBVbbrjpeO5NVeoR3uEmB8OQdg&s",CNN INDONESIA HD
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yOIH3z15uAAwbFETaBVbbrjpeO5NVeoR3uEmB8OQdg&s",CNN INDONESIA
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
 
 
@@ -823,19 +821,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",Warner TV HD
-#####https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+#EXTINF:-1 tvg-id="WarnerTV" group-title="Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+###https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 
- 
 
 === Sports -======
 
@@ -884,7 +879,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
