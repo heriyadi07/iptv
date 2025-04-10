@@ -1050,7 +1050,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&ext
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+http://50.7.234.10:8278/quran_mido/092222_1744287562.ts
 
 
 #EXTINF:-1 tvg-id="mqtv" tvg-logo="https://iili.io/HkDiEzu.png" group-title="Religi",MQTV
