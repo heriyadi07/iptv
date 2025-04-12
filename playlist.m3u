@@ -879,10 +879,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-name="" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2gYcj58UvJ7jKc7lvxJZp_8QUR5WAACYbVBdMvBwW7K3nOza0apMf0wd&s=10", SPORTSTAR 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="SPORTS", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -945,17 +941,6 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:00:1E:DC&stream=1032518&
 
 
 ===UK TNT Sports ====
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 1
-####http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/270
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 2
-####http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/273
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 3
-####http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/271
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 4
-####http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298471
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK ➾ Sports",TNT Sports 5
-###http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1124
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORT PREMIUM",TNT Sports 1 
@@ -1054,8 +1039,6 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=317779&exte
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sports F1 FHD
 http://extraott.com:900/live/3162523972/3791698850/191464.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORT F1 HD
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7342/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 UHD
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
