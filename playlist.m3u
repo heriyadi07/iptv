@@ -1231,13 +1231,14 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=334889&extension=
 ###http://extraott.com:900/live/3162523972/3791698850/191464.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 FHD
 ####http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
+http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORT F1 UHD
 ######http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1471382&extension=ts&play_token=aI90HDMfCY
 ####http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
-http://51.79.229.239:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE&redir=1
+###http://51.79.229.239:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE&redir=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
