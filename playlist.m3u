@@ -4,12 +4,11 @@
 <=========================================== Indonesia Channels =======================================>
 
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#####KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTINF:-1 tvg-id="RCTI.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
-####https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_dash/rcti-2.mpd
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url=""https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD*
@@ -31,6 +30,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 ##https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+#EXTINF:-1 tvg-id="GTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
+##https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #####KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
@@ -160,7 +166,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc76
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 #EXTINF:-1 tvg-id="NET.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png”,MD TV
-https://cempedak-cdn-fly.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia Channels",ANTV
@@ -189,7 +195,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 #EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
-https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
+https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="Indonesia Channels",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -363,7 +369,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
-https://cempedak-cdn-fly.mncnow.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
+https://av-ch-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -418,13 +424,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 
-
-
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
-#EXTINF:-1 tvg-id="554.astro" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png",BBC Earth Asia
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png",BBC Earth Asia
+https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="LoveNature" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Love Nature
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -477,8 +481,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="Knowledge & Documentary" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel
-https://cempedak-cdn-fly.mncnow.id/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd
-
+https://av-ch-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd
 
 #EXTINF:-1 tvg-id="554.astro" tvg-logo="https://iili.io/JmoCwfS.png" group-title="Knowledge & Documentary",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -535,7 +538,6 @@ http://jmrk.xyz:3050/Amonetna/xgvKRisJUa/360765
 
 
 
-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
@@ -551,12 +553,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
 #EXTINF:-1 tvg-id="NickJr.id" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr HD
-https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 #EXTINF:-1 tvg-id="Nickelodeon.id" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png",Nickelodeon
-https://cempedak-cdn-fly.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://p1.hiclipart.com/preview/675/274/402/nickelodeon-logo-recreation-png-clipart.jpg" group-title="Kids" tvg-id="Nickelodeon - [Channel 49].id", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -572,7 +574,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",Animax
-https://cempedak-cdn-fly.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
