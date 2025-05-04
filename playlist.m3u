@@ -566,7 +566,14 @@ https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTINF:-1  group-title="Kids" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="__" group-title="Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",Cartoon Network
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 #EXTINF:-1 tvg-id="__" group-title="Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",Cartoon Network HD
@@ -811,14 +818,15 @@ http://51.79.229.239:80/live.ts?channelId=198&uid=12643&deviceMac=00:1A:79:03:13
 ####http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D
 
 #EXTINF:-1 tvg-name="Star Movie Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01:5D
+http://xtv.ooo:8080/djshub654@/djshub456@/66315
 
 #EXTINF:-1 tvg-name="Star Movie Select HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12643&deviceMac=00:1A:79:03:13:DE
+###http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:-1 group-title="Movies",Movies Now HD
 ######http://xtv.ooo:8080/live/09448630/09888785/109968.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=3178&deviceMac=00:1A:79:42:01:5D
+###http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=3178&deviceMac=00:1A:79:42:01:5D
+http://xtv.ooo:8080/djshub654@/djshub456@/109968
 
 #EXTINF:-1 group-title="Movies",&FLIX HD
 http://15.235.180.97:80/live.ts?channelId=49859&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
@@ -1203,8 +1211,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
 
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" tvg-logo="https://iili.io/JmozxBR.png",Eurosport Asia
