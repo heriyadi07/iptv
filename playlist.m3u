@@ -803,6 +803,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 ####http://xtv.ooo:8080/924237077A/924237077A/109970
 ####http://filex.tv:8080/Diamond@pk@321/4193525345453/275053
 ####http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg",Star Movies HD
 ####http://15.235.181.35:80/live.ts?channelId=198&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
