@@ -893,7 +893,7 @@ http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:00:1E:DC&stream=1458807&
 #KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
 ###https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Local",tvN Premium HD
+#EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Local",tvN Premium HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
