@@ -705,7 +705,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE
+#EXTINF:-1 group-title="MOVIES HBO"  tvg-url="https://epg.pw/api/epg.xml?channel_id=369758" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -741,7 +741,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTINF:-1 tvg-id="HBOSig" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
+#EXTINF:-1 tvg-id="HBOSig" group-title="Movies"  tvg-url="https://epg.pw/api/epg.xml?channel_id=369758"  group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
@@ -763,7 +763,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTINF:-1 tvg-id="HBOSig" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (transvision)
+#EXTINF:-1 tvg-id="HBOSig" group-title="Movies"  tvg-url="https://epg.pw/api/epg.xml?channel_id=369758"  group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (transvision)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
