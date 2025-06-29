@@ -644,11 +644,12 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 ####https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
-#EXTINF:-1 tvg-id="HitsMovies.sg" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png",HITS Movies
-https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=42
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png" group-title="Movies", Hits Movies 🔵
+https://fta4-cdn-flr.visionplus.id/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png" group-title="Premium Movies",HitsMovies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
