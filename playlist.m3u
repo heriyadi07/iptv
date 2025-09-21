@@ -1329,15 +1329,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 ###https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORTS F1 FHD
-###http://line.4k-beast.co:80/698318713/CA7503/367865
-http://fortv.cc:8080/tom@moland/tom@2023/35244
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=Od8Ib8ZF1F
+http://supersonictv.live:8080/live/Bobby1/Bobby1/78149.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORTS F1 FHD*
 ####http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:5A:75&stream=97141&extension=ts&play_token=eEkFBBacZf&sn2=
 ##http://familyvip.me:8080/67465x7b7/CfGNhixNnN/116091
-http://tooontv.com:999/live/ere3444h/agape/196703.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORTS F1
@@ -1361,7 +1359,7 @@ http://15.235.181.35:80/live.ts?channelId=282&uid=4166&deviceMac=00:1A:79:F3:9F:
 ######http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1471382&extension=ts&play_token=aI90HDMfCY
 ####http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
 ###http://51.79.229.239:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE&redir=1
-http://watchindia.net:8880/live/69603/41902/2094.ts
+http://15.235.181.35:80/live.ts?channelId=282&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
