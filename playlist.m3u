@@ -885,7 +885,7 @@ https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+##https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -893,9 +893,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png",Rock Action
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+###https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
-
+#EXTINF:-1 group-title="VIP | Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/3iDA6RUopZay1BlEWBchTfy6kos=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8121&type=drm
+https://spacetv.my.id/index.mpd?id=8121&type=dash
 
 #EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png",Rock Action HD*
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -904,12 +908,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Rock Entertainment
-https://av-ch-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
+#EXTINF:-1 group-title="VIP | Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", ROCK Entertainment
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8120&type=drm
+https://spacetv.my.id/index.mpd?id=8120&type=dash
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
