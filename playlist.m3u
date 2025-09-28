@@ -1046,6 +1046,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
+#EXTINF:-1 tvg-id="124" group-title="SPORT PREMIUM"  tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" ch-number="124", beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 #EXTINF:-1 tvg-id="Spotv" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" group-title="VIP | Vidio",Bein Sports 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -1066,11 +1072,7 @@ https://spacetv.my.id/index.mpd?id=17875&type=dash
 https://spacetv.my.id/index.mpd?id=6317&type=dash
 
 
-#EXTINF:-1 tvg-id="124" group-title="SPORT PREMIUM"  tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" ch-number="124", beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 #EXTINF:-1 tvg-id="125" group-title="SPORT PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png" ch-number="125", beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
