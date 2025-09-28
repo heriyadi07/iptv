@@ -729,7 +729,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+###https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 ===== HBO ====
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
