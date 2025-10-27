@@ -1160,8 +1160,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
-###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd?ck=eyIzMTk3ZjdmNTA4NmM0MzE1YWYyYjdhOTRiYzkyMDFjYiI6IjE3NDYyYTc0NzM5YWUwZDk4NTU3MDVmZmMyYzBlMWI1In0%3D
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd?ck=eyIzMTk3ZjdmNTA4NmM0MzE1YWYyYjdhOTRiYzkyMDFjYiI6IjE3NDYyYTc0NzM5YWUwZDk4NTU3MDVmZmMyYzBlMWI1In0%3D
 
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
