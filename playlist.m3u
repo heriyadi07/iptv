@@ -954,8 +954,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEnter
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/aef83b8aeacd440295e4baa332d260f5.jpg" group-title="Asian Entertainment", tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
+####https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/150/438150-SNAPSHOT-l.png" group-title="Channel Vision+", TVN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Local",tvN Premium HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
