@@ -358,8 +358,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_discoveryasia.png",Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
