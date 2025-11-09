@@ -1036,15 +1036,19 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport
 ##http://xtv.ooo:8080/djshub654@/djshub456@/352087
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=ts&play_token=AjsBKNZpP4
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" url-tvg="https://epg.pw/api/epg.xml?channel_id=1388" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia",Astro SuperSport 2 HD
 ###http://xtv.ooo:8080/djshub654@/djshub456@/352088
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341540&extension=ts&play_token=PqtuDosSxV
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia",MY: Astro SuperSport 3
 ####http://xtv.ooo:8080/djshub654@/djshub456@/352089
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=ts&play_token=sX6twmMVvg
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",MY: Astro SuperSport 4
 ####http://xtv.ooo:8080/djshub654@/djshub456@/352090
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=ts&play_token=LvTAdoFU5I
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ASTRO SUPERSPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD|3840P",4K| ASTRO SUPERSPORT UHD
 ####http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479590&extension=ts&play_token=7N4xhFAPIk
@@ -1087,7 +1091,7 @@ http://15.235.181.35:80/live.ts?channelId=282&uid=4166&deviceMac=00:1A:79:F3:9F:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORTS F1*
 ###http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=317779&extension=ts&play_token=IBHJNXS0Zh
-##http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=334889&extension=ts&play_token=QItKYIAY9m
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=334889&extension=ts&play_token=fbHWjoyDs5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sports F1 FHD
 ###http://extraott.com:900/live/3162523972/3791698850/191464.m3u8
