@@ -345,9 +345,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_curiosity.png",Curiosity
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_discoveryasia.png",Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Discovery_Asia.webp" group-title="IndiHome | SkyGo",Discovery Asia
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
@@ -355,6 +356,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Love_Nature.webp" group-title="IndiHome | SkyGo",Love Nature HD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png",Love Nature 4K
 ###https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -444,8 +449,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="IndiHome | SkyGo", Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -706,6 +715,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
