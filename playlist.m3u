@@ -421,14 +421,20 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+####https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+#EXTINF:-1 tvg-id="HITS.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png",HITS
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png",HITS Movies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
@@ -1063,7 +1069,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 ##https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORT PREMIUM",TNT Sports 1 
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175184&extension=ts&play_token=BIEEy2nVmV
+##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175184&extension=ts&play_token=BIEEy2nVmV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORT PREMIUM",TNT Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1074,7 +1080,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175184&extension=
 ###https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORT PREMIUM",TNT Sports 2 
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175186&extension=ts&play_token=Wweny0qdmV
+##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175186&extension=ts&play_token=Wweny0qdmV
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="SPORT PREMIUM",TNT Sports 3 
@@ -1086,7 +1092,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175186&extension=
 ###https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORT PREMIUM",TNT Sports 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175188&extension=ts&play_token=U8pHXpPkti
+##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175188&extension=ts&play_token=U8pHXpPkti
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="SPORT PREMIUM",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1097,7 +1103,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175188&extension=
 ###https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORT PREMIUM",TNT Sports 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=530935&extension=ts&play_token=ZXf22td9L9
+###http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=530935&extension=ts&play_token=ZXf22td9L9
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1115,19 +1121,19 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=530935&extension=
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport
 ##http://xtv.ooo:8080/djshub654@/djshub456@/352087
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=ts&play_token=AjsBKNZpP4
+##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=ts&play_token=AjsBKNZpP4
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" url-tvg="https://epg.pw/api/epg.xml?channel_id=1388" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia",Astro SuperSport 2 HD
 ###http://xtv.ooo:8080/djshub654@/djshub456@/352088
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341540&extension=ts&play_token=PqtuDosSxV
+###http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341540&extension=ts&play_token=PqtuDosSxV
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia",MY: Astro SuperSport 3
 ####http://xtv.ooo:8080/djshub654@/djshub456@/352089
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=ts&play_token=sX6twmMVvg
+####http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=ts&play_token=sX6twmMVvg
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",MY: Astro SuperSport 4
 ####http://xtv.ooo:8080/djshub654@/djshub456@/352090
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=ts&play_token=LvTAdoFU5I
+####http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=ts&play_token=LvTAdoFU5I
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ASTRO SUPERSPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD|3840P",4K| ASTRO SUPERSPORT UHD
 ####http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479590&extension=ts&play_token=7N4xhFAPIk
