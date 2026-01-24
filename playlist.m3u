@@ -1119,38 +1119,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 
 ===ASTRO======
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport
-##http://xtv.ooo:8080/djshub654@/djshub456@/352087
-##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=ts&play_token=AjsBKNZpP4
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" url-tvg="https://epg.pw/api/epg.xml?channel_id=1388" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia",Astro SuperSport 2 HD
-###http://xtv.ooo:8080/djshub654@/djshub456@/352088
-###http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341540&extension=ts&play_token=PqtuDosSxV
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia",MY: Astro SuperSport 3
-####http://xtv.ooo:8080/djshub654@/djshub456@/352089
-####http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=ts&play_token=sX6twmMVvg
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",MY: Astro SuperSport 4
-####http://xtv.ooo:8080/djshub654@/djshub456@/352090
-####http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=ts&play_token=LvTAdoFU5I
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ASTRO SUPERSPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD|3840P",4K| ASTRO SUPERSPORT UHD
-####http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479590&extension=ts&play_token=7N4xhFAPIk
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport UHD*" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Malaysia",Astro SuperSport UHD*
-####http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:20:03:1E&stream=1479590&extension=ts&play_token=naprEmZc2P&sn2=
-
-
-====ASTRO=====
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://thumbor.prod.vidiocdn.com/ODFLXh9DBzwA3yyuirCrsePFPJA=/296x166/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" group-title="SPORTS INDO", PREMIER LEAGUE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-####https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 === SPORTS ====
 
