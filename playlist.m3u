@@ -149,7 +149,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/codec=h264/file/
 
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
