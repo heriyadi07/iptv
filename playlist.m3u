@@ -368,7 +368,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Discovery_Asia.webp" group-title="IndiHome | SkyGo",Discovery Asia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+####https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S4ZRQdHj/IMG-20250510-105117.png" group-title="KNOWLEDGE",Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -466,13 +475,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #EXTINF:-1 tvg-id="HITS.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png",HITS
 ###https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 
+#EXTINF:-1,ID: Hits
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165085
+
 
 #EXTINF:-1 tvg-id="HITS - [Saluran 77].id" tvg-url="https://i.imgur.com/43aPpA4.png" tvg-logo="https://i.ibb.co.com/ccgPWYGK/HITS.png" group-title="MOVIES",HITS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+###https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png",HITS Movies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
