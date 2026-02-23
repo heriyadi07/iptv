@@ -393,6 +393,11 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsi
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
+#EXTINF:-1,ID: Nat Geo
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165094
+
+#EXTINF:-1,ID: Nat Geo Wild
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/197967
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
