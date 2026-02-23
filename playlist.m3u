@@ -1293,10 +1293,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=334889&extension=
 ###https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Religi",Live Madinah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1304,7 +1302,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a424301731849249d1577/f1b588a1aad141cb8e65450cd5c2a0e7.png" group-title="Religious", Al Quran Al Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
+###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
 
 #EXTINF:-1 tvg-id="mqtv" tvg-logo="https://iili.io/HkDiEzu.png" group-title="Religi",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
