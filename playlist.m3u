@@ -1315,15 +1315,16 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=334889&extension=
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
 #EXTINF:-1 tvg-id="AlQuranKareem.id" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png",AlQuran Al Kareem TV
 ###https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
 
 #EXTINF:-1 group-title="Religi",Live Makkah
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+###https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 group-title="Religi",Live Madinah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+###http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
