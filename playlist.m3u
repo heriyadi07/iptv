@@ -213,6 +213,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="NASIONAL",METRO TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
