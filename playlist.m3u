@@ -148,11 +148,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji
+#EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji (FM)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+####http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
