@@ -145,8 +145,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 ####https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/codec=h264/file/stream.mpd?hdnts=exp=1769501923~acl=/stream/206/codec=h264/file/stream.mpd!/stream/206/file/*/aac/*!/stream/206/file/*/*-1080p/*!/stream/206/file/*/*-720p/*!/stream/206/file/*/*-480p/*!/stream/206/file/*/*-360p/*~id=198845134~hmac=c4bc1ba1887aad4f08910f5f524643536aa6d08768875d14e7f4bc26fce6dfe5
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
