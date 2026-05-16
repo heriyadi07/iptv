@@ -434,33 +434,18 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165085
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
-#EXTINF:-1,ID: ETV BIOSKOP 01
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1,ID: ETV BIOSKOP 02
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1,ID: ETV BIOSKOP 03
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1,ID: ETV BIOSKOP 04
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
-
 
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="IndiHome | SkyGo", Cartoon Network
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-###https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157593
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+###https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -531,7 +516,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -552,105 +537,40 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 ======= HBO FMX ====
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO##
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS##
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
-
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY##
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
-
-
-#EXTINF:-1 group-title="MOVIES HBO"  tvg-url="https://epg.pw/api/epg.xml?channel_id=369758" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE##
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX##
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-===== HBO ====
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO FMX
-###https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-#EXTINF:-1 tvg-id="HBOHits" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
-###https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-#EXTINF:-1 tvg-id="HBOFamily" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
-###https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTINF:-1 tvg-id="HBOSig" group-title="Movies"  tvg-url="https://epg.pw/api/epg.xml?channel_id=369758"  group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
-####https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
-####https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 =========== HBO Transvision =======
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES", HBO
 ###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="hbohitsasia" tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png" group-title="MOVIES", HBO Hits
 ###https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
 ##https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
 ###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES", CINEMAX
 ###https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -659,35 +579,35 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTINF:-1 tvg-id="HBO" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO (transvision)
 ##https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTINF:-1 tvg-id="HBOSig" group-title="Movies"  tvg-url="https://epg.pw/api/epg.xml?channel_id=369758"  group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (transvision)
 ##https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTINF:-1 tvg-id="HBOHits" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (transvision)
 ##https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTINF:-1 tvg-id="HBOFamily" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (transvision)
 ##https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTINF:-1 tvg-id="Cinemax" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (transvision)
 ##https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
@@ -837,7 +757,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png" group-title="Asian Entertainment", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ####https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd
