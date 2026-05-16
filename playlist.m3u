@@ -381,6 +381,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S4ZRQdHj/IMG-20250510-105117.png" group-title="KNOWLEDGE",Discovery HD
+https://datahub11.com:443/live/1000449052/449052/156.ts
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -422,6 +425,16 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 ####https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Local", HISTORY HD
+https://datahub11.com:443/live/1000449052/449052/180.ts
+
+#EXTINF:-1,IN: NATIONAL GEOGRAPHIC
+https://datahub11.com:443/live/1000449052/449052/7343.ts
+
+#EXTINF:-1,IN: NATGEO WILD HD
+https://datahub11.com:443/live/1000449052/449052/7344.ts
+
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
