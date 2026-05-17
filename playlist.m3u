@@ -1022,6 +1022,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 ===UK TNT Sports ====
 
 
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="CRIC || TNT SPORTS 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="CRICKET",CRIC || TNT SPORTS 1 ᶠᴴᴰ
+http://starshare.fans/live/653284131606/673224580558/186627.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/TNT-Sports-2-New.jpg" group-title="SPORTS | UK SPORTS",TNT SPORT 2 FHD
+http://starshare.fans/live/653284131606/673224580558/186628.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT SPORT 3 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/TNT-Sports-3-1.png" group-title="SPORTS | UK SPORTS",TNT SPORT 3 FHD
+http://starshare.fans/live/653284131606/673224580558/186629.ts
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT SPORT 4 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/TNT-Sports-4.jpg" group-title="SPORTS | UK SPORTS",TNT SPORT 4 FHD
+http://starshare.fans/live/653284131606/673224580558/186630.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORT PREMIUM",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1114,6 +1123,8 @@ http://germanydns15.com/live/SLuRjStCUR/q0mK8n7U8b/cdf42faa-e8a1-49ea-92ce-b810c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 FHD
 ####http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
 ###http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE
+http://starshare.fans/live/653284131606/673224580558/144581.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", SKY SPORT F1 UHD
 ######http://4ksuper.live:80/play/live.php?mac=00:1A:79:B5:44:F1&stream=1471382&extension=ts&play_token=aI90HDMfCY
