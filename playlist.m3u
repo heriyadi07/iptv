@@ -429,16 +429,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 https://datahub11.com:443/live/1000449052/449052/180.ts
 
 #EXTINF:-1,IN: NATIONAL GEOGRAPHIC
-https://datahub11.com:443/live/1000449052/449052/9394.ts
+http://datahub11.com/live/1000449052/449052/9394.ts
 
-
-#EXTINF:-1,IN: NATGEO WILD HD
-https://datahub11.com:443/live/1000449052/449052/7344.ts
-
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: NATIONAL GEOGRAPHIC" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" group-title="INDIA DOCUMENTARY",IN: NATIONAL GEOGRAPHIC
+http://starshare.fans/live/653284131606/673224580558/7343.ts
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="Knowledge & Documentary" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -478,7 +476,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 ###https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 
 #EXTINF:-1,ID: Hits
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165085
+####http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165085
 
 
 #EXTINF:-1 tvg-id="HITS - [Saluran 77].id" tvg-url="https://i.imgur.com/43aPpA4.png" tvg-logo="https://i.ibb.co.com/ccgPWYGK/HITS.png" group-title="MOVIES",HITS
