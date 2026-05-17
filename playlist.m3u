@@ -426,7 +426,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 ####https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Local", HISTORY HD
-https://datahub11.com:443/live/1000449052/449052/180.ts
+http://datahub11.com/live/1000449052/449052/180.ts
 
 #EXTINF:-1,IN: NATIONAL GEOGRAPHIC
 http://datahub11.com/live/1000449052/449052/9394.ts
