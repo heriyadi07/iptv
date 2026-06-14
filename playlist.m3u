@@ -728,27 +728,27 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da2
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome | SkyGo" tvg-logo="", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-##https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome | SkyGo" tvg-logo="", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-##https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome | SkyGo" tvg-logo="", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-##https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome | SkyGo" tvg-logo="", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-##https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome | SkyGo" tvg-logo="", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-##https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 ##################  MOVIES  ########################################################################################
 
