@@ -1085,16 +1085,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 
 
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="CRIC || TNT SPORTS 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="CRICKET",CRIC || TNT SPORTS 1 ᶠᴴᴰ
-http://starshare.fans/live/653284131606/673224580558/186627.ts
+##http://starshare.fans/live/653284131606/673224580558/186627.ts
 
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/TNT-Sports-2-New.jpg" group-title="SPORTS | UK SPORTS",TNT SPORT 2 FHD
-http://starshare.fans/live/653284131606/673224580558/186628.ts
+##http://starshare.fans/live/653284131606/673224580558/186628.ts
 
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT SPORT 3 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/TNT-Sports-3-1.png" group-title="SPORTS | UK SPORTS",TNT SPORT 3 FHD
-http://starshare.fans/live/653284131606/673224580558/186629.ts
+##http://starshare.fans/live/653284131606/673224580558/186629.ts
 
 #EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT SPORT 4 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/TNT-Sports-4.jpg" group-title="SPORTS | UK SPORTS",TNT SPORT 4 FHD
-http://starshare.fans/live/653284131606/673224580558/186630.ts
+##http://starshare.fans/live/653284131606/673224580558/186630.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORT PREMIUM",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
