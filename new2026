@@ -110,9 +110,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome | SkyGo" tvg-logo="", HBO (indi)
+#EXTINF:-1 tvg-id="" tvg-name="HBO.id" group-title="IndiHome | SkyGo" tvg-logo="", HBO (indi)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 
