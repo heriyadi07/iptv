@@ -553,11 +553,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #### PH ###
 
-#EXTINF:-1 group-title="HBO",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
 
 #EXTINF:-1 group-title="Cartoon",cartoon_net_hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -565,12 +561,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-
-#EXTINF:-1 group-title="Sports",SPOTV_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-1 group-title="Sports",onesportsplus_hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
