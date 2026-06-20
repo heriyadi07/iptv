@@ -135,7 +135,57 @@ https://live.cnnindonesia.com//livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="National TV",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
+########## NEWS ######
 
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
+
+#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NzAu TV" , Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
+######https://apel-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="nhk.world.Japan.id" tvg-name="NHK World Japan" tvg-logo="https://mimipipi22.github.io/logo/international/nhkwj.jpg" group-title="WORLD TV",NHK WORLD JAPAN
+https://atemecdnbalancer-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World-Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/logo_nhkworldpremium_small.png?v=2.0.0.13",NHK World Premium
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Bloomberg.id" tvg-name="Bloomberg TV" tvg-logo="https://mimipipi22.github.io/logo/news/bloomberg.jpg" group-title="NEWS",BLOOMBERG
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
+
+########## Entertainment #####
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F7-LIFESTYLE%2FTLC%20SD-FirstMedia-Chl-72.jpg&w=1920&q=100",TLC
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lifestyle2/hgtv.png" group-title="LIFESTYLE",HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
 
 ######################################################## Movies #########################################################################
