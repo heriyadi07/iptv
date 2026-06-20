@@ -544,3 +544,32 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-id="mqtv" tvg-logo="https://iili.io/HkDiEzu.png" group-title="Religi",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#### PH ###
+
+#EXTINF:-1 group-title="HBO",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
+#EXTINF:-1 group-title="Cartoon",cartoon_net_hd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+
+#EXTINF:-1 group-title="Sports",SPOTV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 group-title="Sports",tap_sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e7c1b9a2d8f4a6c9f30b1d6e2a8c744:6178d9d177689eec5028e2dd608ae7b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd"
+
+
