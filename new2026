@@ -504,9 +504,21 @@ http://clientbox.online:80/DWE56gdSt3/1z8tqGitq7/7951?play_token=H0WdWKvVQi
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:15:26:0D&stream=394543&extension=ts&play_token=2ecYQ8i39m
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 FHD
 ####http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:BC:7A:9D&stream=1471382&extension=ts&play_token=HFFjP2KDZ8
 http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 FHD
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118946
+
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="0062a26aaaf9a36db2b03eb2ad05d29f",TSN 4K CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="4fba21403a39c68573882366b84b25d4",TSN1 CA 01
+http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120273.ts
+
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",ITV 1
+http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
 
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_alquranalkareem.png",Al Quran Al Kareem (V+)
