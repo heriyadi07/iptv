@@ -520,6 +520,8 @@ http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120273.ts
 #EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",ITV 1
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
 
+#EXTINF:-1 data-source="Manual" group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="80abd784476695a50ee5dc5f51df7f63",CH1 B (Recommended ENG)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_alquranalkareem.png",Al Quran Al Kareem (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
