@@ -564,6 +564,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_discovery.png",Discovery Channel
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhubX841l6SCLthfUnCFZr_Be3r_blSjn2Gu6G8FpiiDZx7BZnXK3c1KcjvG9W-Ox3AJGc_qZmp6Mf5toiqFo9-e9I4ftcBk_60rt80-RI17x1DN_1WANGbrRwvkiUd4qLHpQY1BnQK2NlLNvV2bMMocXVqo9fWt5y3_HObZPgv4q9oeuXUORx3ejp6Kv8/s700/DiscoveryTurbo.png",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
 #EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
