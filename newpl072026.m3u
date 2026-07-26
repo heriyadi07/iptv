@@ -963,6 +963,15 @@ https://tvratu.my.id/vid/index.mpd?id=21178
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIbR6mTCN3w7muLupXZvN6Dq53mBsE2VP0N8KbTzBj42AUQC3wMOljmzH1C2oJV9036o_8h6F-8SlpoJRUac66uT8cEffBWy0djoCPWNaDIbYPc2YbFmhnvxZ5VaJJdJSqZQxU3hP4-KsakUqa2dSXSNg0rARB6zpsMmO6TiePjsm21ftJ2Ipq30uQ8w/s640/LiveMakkah.jpg" group-title="Religion",Live Makkah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7a12S48h-U_UbGCql2zc6isW6A41TS1T4J_EycvN-27aY5jryhR0pqeCBvqrLlv5H8fJu-hAWEjFuWzb6494C-8_a6Yl1ihY-6Z8nnMHE9dLDHz6X6lbwebKGrRl2IYD-pagcKrwTVCW_R8S7efesCRmVqauZipz0JhxjNXkWn5EcGPKxjordL-EUYtA/s1280/LiveMadinah.jpg" group-title="Religion",Live Madinah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch13.m3u8
+
 #EXTINF:-1 tvg-id="MuslimTV.id@SD" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
